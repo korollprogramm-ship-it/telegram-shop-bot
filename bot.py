@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import WebAppInfo, InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.utils import executor
 
-API_TOKEN = '8604762559:AAGel5kYtasbOpO1OuFbLbAuom_OB4ZNS6s'
+API_TOKEN = 'YOUR_TOKEN_HERE'
 WEBAPP_URL = 'https://3000-im366ggkc2bkg9sys37ec.app.cto.new'
 
 bot = Bot(token=API_TOKEN)
